@@ -21,7 +21,7 @@ body
 
 a
   color: inherit
-  transition: color 0.2s linear
+  transition: color 0.15s linear
   &:hover
     color: #0090e0
 
@@ -83,7 +83,6 @@ p
   display: flex
   margin: 0 -1rem
   padding: 0 1rem
-  overflow: hidden
 
 .footer
   font-size: 0.9em
@@ -127,10 +126,30 @@ p
     display: block
     line-height: 3em
     padding: 0 1rem
+    text-decoration: none
+  em
+    font-style: normal
+    text-decoration: underline
   #bible-lesson-subject
     font-weight: bold
 
 .draft
   background: #c08080
+  margin-right: -50rem
+  margin-left: -50rem
   margin-top: -1rem
   margin-bottom: 1rem
+  padding: 1rem 50rem
+  text-align: center
+  a
+    font-weight: bold
+
+.carousel
+  background: $background
+  border: 1em solid $background
+  margin: 1rem auto
+  width: 400px
+  img
+    max-width: 100%
+  &.wide
+    width: 650px

@@ -15,11 +15,11 @@ healing in individual lives, as well as in the community and the world.
 You are welcome to join our services. Children and those up to age 20 are
 welcome to attend Sunday School.
 
-Our **Sunday service** is at 10:00 AM. This service provides an atmosphere for
-prayer and for listening to a Bible Lesson-Sermon that promotes healing. The
-Lesson-Sermon is composed of citations from The Bible and *Science and Health
-with Key to the Scriptures* by Mary Baker Eddy. Every service includes hymn
-singing by the congregation and an inspirational solo.
+Our Sunday service is at <time datetime="10:00">10:00 am</time>. This service
+provides an atmosphere for prayer and for listening to a Bible Lesson-Sermon
+that promotes healing. The Lesson-Sermon is composed of citations from The Bible
+and *Science and Health with Key to the Scriptures* by Mary Baker Eddy. Every
+service includes hymn singing by the congregation and an inspirational solo.
 
 # What is Christian Science?
 
@@ -45,7 +45,7 @@ relationship to God better through this Science of Christianity, their health is
 restored and character transformed. And each healing inspires a heartfelt desire
 to help others know and experience how loved we all are by God.
 
-<a class="button" href="http://christianscience.com/what-is-christian-science" rel="external" target="_blank">Learn more about Christian Science</a>
+<a class="button" href="https://www.christianscience.com/what-is-christian-science" rel="external" target="_blank">Learn more about Christian Science</a>
 
 </section>
 

@@ -6,24 +6,21 @@
   <meta name=description content="{{ page.description | strip_newlines }}">
   <meta name=keywords content="{{ page.keywords | join: "," }}">
   <link rel=stylesheet href="/css/main.css">
-  <script src="/js/moment.js"></script>
+  <script src="/js/moment.min.js"></script>
   <script src="/js/lesson-subject.js"></script>
+  <script src="/js/siema.min.js"></script>
 </head>
 <body>
   <div class=draft>
-    This is a draft website, currently under construction. Please see https://csmenlopark.com/ for now.
+    This website is a draft, currently under construction. Please visit <a href="https://csmenlopark.com/">csmenlopark.com</a> for now.
   </div>
-  {% include header.html %}
-  {% include menu.html %}
+{% include header.html %}
+{% include menu.html %}
   <div class=content>
 {{ content }}
 
   </div>
-  <aside class=endcap>
-    <a href="https://biblelesson.christianscience.com/" rel=external target=_blank>
-      The subject of this week's Bible Lesson is: <span id=bible-lesson-subject>&nbsp;</span>
-    </a>
-  </aside>
-  {% include footer.html -%}
+{% include lesson-subject.html %}
+{% include footer.html -%}
 </body>
 </html>

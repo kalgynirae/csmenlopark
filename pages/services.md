@@ -9,6 +9,16 @@ permalink: /services/
 
 <section markdown="1">
 
+<aside class="carousel">
+  <img alt="open hymnal and congregation singing" src="/media/hymn293.jpg">
+  <img alt="pianist and soloist" src="/media/musicians.jpg">
+  <img alt="" src="/media/ss-readings-1.jpg">
+  <img alt="" src="/media/ss-christmas-1.jpg">
+  <img alt="" src="/media/ss-readings-2.jpg">
+  <img alt="" src="/media/ss-christmas-2.jpg">
+</aside>
+<script src="/js/carousel.js"></script>
+
 ## Sunday Service
 
 Our Sunday service is at <time datetime="10:00">10:00 am</time>. This service
