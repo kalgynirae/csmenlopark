@@ -17,7 +17,7 @@ permalink: /services/
   <img alt="" src="/media/ss-readings-2.jpg">
   <img alt="" src="/media/ss-christmas-2.jpg">
 </aside>
-<script src="/js/carousel.js"></script>
+<script src="/assets/carousel.js"></script>
 
 ## Sunday Service
 

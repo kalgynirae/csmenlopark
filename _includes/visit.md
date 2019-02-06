@@ -1,6 +1,6 @@
 ## Visit our Church
 
-<img alt="Church entrance" src="/image/church-entrance.jpg">
+<img alt="Church entrance" src="/media/church-entrance.jpg">
 
 ### Sunday
 * Church Service: <time datetime="10:00">10:00 am</time>

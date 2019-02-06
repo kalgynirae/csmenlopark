@@ -10,7 +10,7 @@ permalink: /reading-room/
   <img src="/media/sterling-edition.jpg">
   <img src="/media/boundless-light.jpg">
 </aside>
-<script src="/js/carousel.js"></script>
+<script src="/assets/carousel.js"></script>
 
 **Welcome!** Our Reading Room provides a quiet place to explore the Bible, the
 writings of Mary Baker Eddy, and Christian Science publications such as The
