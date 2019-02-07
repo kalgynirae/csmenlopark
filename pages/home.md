@@ -22,4 +22,19 @@ of Christ Jesus. Christian Science teaches that God is Love and that we are His
 beloved children. Understanding God's nature and His power leads to healing in
 individual lives, as well as in the community and the world.
 
+<div class="home-buttons">
+  <div>
+    <img src="/media/god-is-love.jpg">
+    <a class="button" href="{% link pages/resources.md %}">Spiritual Resources</a>
+  </div>
+  <div>
+    <img src="/media/reading-room-products.jpg">
+    <a class="button" href="{% link pages/reading-room.md %}">Reading Room</a>
+  </div>
+  <div>
+    <img src="/media/sunday-school.jpg">
+    <a class="button" href="{% link pages/services.md %}">Sunday School</a>
+  </div>
+</div>
+
 </section>

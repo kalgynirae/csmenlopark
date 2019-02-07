@@ -42,6 +42,26 @@ p
     display: block
     margin: auto
 
+dl
+  display: flex
+  flex-wrap: wrap
+  dt
+    flex: 20%
+    align-self: center
+    font-weight: bold
+    text-align: right
+  dd
+    flex: 75%
+    margin: 0
+    margin-left: 1em
+    padding: 0.25em 0
+
+hr
+  border: none
+  border-top: 1px solid $border-gray
+  margin-bottom: 2.5em
+  margin-top: 0.5em
+
 .main
   margin: auto
   max-width: 1100px
@@ -92,21 +112,24 @@ p
   text-align: center
 
 .button
-  box-shadow: inset 0px 1px 0px 0px #bbdaf7
-  background: linear-gradient(to bottom, lighten(desaturate($button-blue, 20), 20) 5%, desaturate($button-blue, 20) 100%)
+  box-shadow: inset 0px 1px 0px lighten(desaturate($button-blue, 40), 30)
+  background: linear-gradient(to bottom, lighten(desaturate($button-blue, 25), 20) 5%, desaturate($button-blue, 30) 100%)
   border-radius: 5px
-  border: 1px solid #84bbf3
+  border: 1px solid darken(desaturate($button-blue, 20), 5)
   display: inline-block
   color: #ffffff
   font-weight: bold
   line-height: 3em
+  text-align: center
   text-decoration: none
-  text-shadow: 1px 1px 0px #325eac
+  text-shadow: 1px 1px 0px darken(desaturate($button-blue, 40), 30)
   padding: 0 1em
-  &:active,
   &:hover
     background: linear-gradient(to bottom, lighten($button-blue, 20) 5%, $button-blue 100%)
     color: #ffffff
+  &:active
+    background: linear-gradient(to bottom, lighten($button-blue, 5) 5%, lighten($button-blue, 10) 100%)
+    box-shadow: inset 0px 0px 1px lighten(desaturate($button-blue, 40), 30)
 
 .sidebar-left
   border-right: 1px solid $border-gray
@@ -151,3 +174,21 @@ p
     max-width: 100%
   &.wide
     width: 650px
+
+.float
+  float: right
+
+.home-buttons
+  display: flex
+  margin: 2em 0
+  >div
+    display: flex
+    flex-direction: column
+    flex: 1 0 0
+    img
+      display: block
+      margin: auto
+    .button
+      display: block
+      flex-grow: 0
+      margin: 0.5em
