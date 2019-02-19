@@ -25,7 +25,7 @@ individual lives, as well as in the community and the world.
 <div class="home-buttons">
   <div>
     <img src="/media/god-is-love.jpg">
-    <a class="button" href="{% link pages/resources.md %}">Spiritual Resources</a>
+    <a class="button" href="{% link pages/reading-room.md %}">Spiritual Resources</a>
   </div>
   <div>
     <img src="/media/reading-room-products.jpg">

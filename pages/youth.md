@@ -3,23 +3,41 @@ title: Youth
 permalink: /youth/
 ---
 
-<section markdown="1">
+<div class="content-and-sidebar">
+
+<aside markdown="1">
 
 ## Have plans this summer?
 
 Check out summer programs for Christian Science youth.
 
-<img src="/media/youth/cedars.jpg">
+* <a href="https://www.cedarscamps.org/">
+  CedarS Camps
+  <img alt="CedarS Programs, Applications & More" src="/media/youth/cedars.jpg">
+</a>
 
-<img src="/media/youth/newfound.jpg">
+* <a href="https://www.newfound-owatonna.com/">
+  Camp Newfound Owatonna
+  <img alt="Camp Newfound" src="/media/youth/newfound.jpg">
+</a>
 
-<img src="/media/youth/au.jpg">
+* <a href="https://www.adventureunlimited.org/">
+  Adventure Unlimited
+  <img alt="Adventure Unlimited" src="/media/youth/au.jpg">
+</a>
 
-<img src="/media/youth/crystallake.jpg">
+* <a href="https://www.crystallakecamps.org/">
+  Crystal Lake Camps
+</a>
 
-</section>
+* <a href="https://leelanau-kohahna.org/">
+  Camps Leelanau & Kohahna
+  <img alt="Camp" src="/media/youth/crystallake.jpg">
+</a>
 
-<section class="sidebar-right" markdown="1">
+</aside>
+
+<section markdown="1">
 
 ## Sunday School
 
@@ -27,6 +45,12 @@ If you're under 20, Sunday School is for you! It's about being loved and
 accepted as you discover the relevance and practicality of Bible—based
 spirituality, as taught in Christian Science.
 
-<a class="button" href="https://www.christianscience.com/youth/sunday-school"
-rel="_external" target="_blank">Find more resources for Christian Science Youth</a>
+## Connect on Facebook to Christian Science youth around the world
+
+<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTMCYouth%2F&tabs=timeline&width=500&height=420&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=1495541403912226" width="500" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+<a class="button" href="https://www.christianscience.com/youth" rel="_external" target="_blank">
+  Find more resources for Christian Science Youth
+</a>
+
 </section>

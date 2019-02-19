@@ -1,7 +1,9 @@
 ---
 title: Lectures & Events
-permalink: /events/
+permalink: /lectures-and-events/
 ---
+
+<div class="content-and-sidebar">
 
 <section markdown="1">
 
@@ -26,7 +28,7 @@ Service for food and fellowship. All are welcome.
 
 </section>
 
-<aside class="sidebar-right" markdown="1">
+<aside markdown="1">
 
 ## Attend a Christian Science Lecture
 
@@ -53,3 +55,5 @@ Pasco, Washington.
 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/-maaOuLzjiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </aside>
+
+</div>

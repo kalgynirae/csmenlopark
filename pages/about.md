@@ -1,11 +1,13 @@
 ---
 title: About Us
-permalink: /about/
+permalink: /about-us/
 ---
+
+<div class="content-and-sidebar">
 
 <section markdown="1">
 
-# Welcome
+# About Us
 
 The *Church of Christ, Scientist,* is designed to commemorate the words and
 works of Christ Jesus. Christian Science teaches that God is Love and that we
@@ -49,6 +51,8 @@ to help others know and experience how loved we all are by God.
 
 </section>
 
-<aside class="sidebar-right" markdown="1">
+<aside markdown="1">
 {% include visit.md %}
 </aside>
+
+</div>

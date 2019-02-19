@@ -1,9 +1,11 @@
 ---
 title: Church Services & Sunday School
-permalink: /services/
+permalink: /services-and-sunday-school/
 ---
 
-<aside class="sidebar-left" markdown="1">
+<div class="content-and-sidebar">
+
+<aside markdown="1">
 {% include visit.md %}
 </aside>
 
@@ -39,7 +41,7 @@ of Christian Science are applied in their daily lives.
 
 Our Sunday School service is at <time datetime="10:00">10:00 am</time>, and is
 open to students up to the age of 20. Sunday School instruction is based on the
-Bible – beginning with the Ten Commandments, the Lords Prayer, with its
+Bible—beginning with the Ten Commandments, the Lords Prayer, with its
 Spiritual Interpretation by Mary Baker Eddy, and the Sermon on the Mount.  In
 class, students learn of God's love for them, and how the spiritual and moral
 teachings of The Bible and Science and Health can help them every day, in every
@@ -52,3 +54,5 @@ supervision of an experienced adult. Infants and children who are too young to
 attend Sunday School are cared for lovingly.
 
 </section>
+
+</div>

@@ -1,41 +1,63 @@
 ---
 title: Reading Room
-permalink: /reading-room/
+permalink: /reading-room-and-spiritual-resources/
 ---
+
+<div class="content-and-sidebar">
 
 <section markdown="1">
 
-<aside class="carousel">
-  <img src="/media/a-world-more-bright.jpg">
-  <img src="/media/sterling-edition.jpg">
-  <img src="/media/boundless-light.jpg">
-</aside>
-<script src="/assets/carousel.js"></script>
+# Spiritual Resources
 
-**Welcome!** Our Reading Room provides a quiet place to explore the Bible, the
-writings of Mary Baker Eddy, and Christian Science publications.  Come explore
-spirituality, prayer, and healing, peruse or purchase Christian Science
-publications, speak with a librarian, or ask questions. Reading Rooms are open
-to people of all faiths, backgrounds, and ways of life.
+* <a href="https://www.christianscience.com/" rel="external" target="_blank">ChristianScience.com</a>  
+  A complete source on Christian Science.
 
-<img src="/media/rr-books.png">
+* <a href="https://jsh.christianscience.com/" rel="external" target="_blank">JSH-Online</a>  
+  Online access to the *Christian Science Journal*, the *Christian Science
+  Sentinel*, print periodicals, articles, blogs, podcasts, over 30,000 minutes
+  of SentinelRadio and audio chats, and a searchable archive going back to 1883.
 
-Stop by and browse our selection of **biographies**, kids' **Bible stories**,
-and more.  Or, pick up a copy of **The Christian Science Monitor**, an
-independent international newspaper that delivers thoughtful, global coverage.
-We want to inspire people to think about what they've read long after they've
-left the page.
+* <a href="https://www.marybakereddylibrary.org/" rel="external" target="_blank">Mary Baker Eddy Library</a>  
+  Information about the life and writings of Mary Baker Eddy.
 
-[The Christian Science Monitor]: https://www.csmonitor.com/
+* <a href="https://www.csmonitor.com/" rel="external" target="_blank">The Christian Science Monitor</a>  
+  An independent international newspaper that delivers thoughtful, global
+  coverage.
 
-<a class="button" href="https://www.csmonitor.com/" rel="external" target="_blank">
-  Learn more about The Christian Science Monitor
-</a>
+### Christian Science Bible Lesson
+Bible Lessons from the Christian Science Quarterly provide a practical program
+of self-instruction in Christian Science. Lessons are made up of Bible texts
+followed by correlative passages from Science and Health. Each one is designed
+to show how the timeless healing truths found in the Bible apply in the world of
+today. Available in several print and audio editions.
+
+### Christian Science Sentinel
+Each week the Christian Science Sentinel keeps readers spiritually alert and
+conscious of God's power in their daily lives. It provides a prayerful window on
+your world--from current events to personal issues like health, relationships,
+finance, employment, and parenting. You will find spiritual insights and
+examples of verified healings in Christian Science which will help you heal
+yourself and others and connect you to the global reach of this Science.
+
+### Christian Science Journal
+The Christian Science Journal records the healings and spiritual insights of
+those who faithfully practice Christian Science.  Individuals share how an
+ever-developing understanding of God has healed, enlightened, and blessed them,
+expanding their spirituality and ability to heal others.The Journal also
+includes a worldwide directory of Christian Science practitioners, teachers, and
+nurses available to anyone interested in spiritual healing, as well as a listing
+of all Christian Science churches and societies throughout the world.
 
 </section>
 
-<aside class="sidebar-right" markdown="1">
-## Reading Room @ Downtown Menlo Park
+<aside markdown="1">
+
+## Reading Room, Downtown Menlo Park
+
+Our Reading Room provides a quiet place to pray, study, and explore the Bible,
+the writings of Mary Baker Eddy, and Christian Science publications.  Explore
+spirituality, prayer, and healing, speak with a librarian, or ask questions.
+Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 
 <dl>
   <dt>Hours</dt>
@@ -52,7 +74,7 @@ left the page.
 
 <hr>
 
-## Reading Room @ SFO Terminal 1
+## Reading Room, SFO Terminal 1
 
 We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 1.
@@ -70,3 +92,5 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 
 
 </aside>
+
+</div>
