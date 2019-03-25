@@ -13,7 +13,7 @@ keywords:
 
 <section markdown="1">
 
-<img alt="View of Stanford campus from the hills with the bay in the background" src="/media/stanford-banner.png">
+<img alt="" src="/media/church-front.jpg" class="home-image">
 
 # Welcome
 

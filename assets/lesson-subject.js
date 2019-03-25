@@ -30,9 +30,6 @@ window.addEventListener("load", function() {
   var startDate = moment("2016-06-27");
   var weeksSinceStart = moment().diff(startDate, "weeks");
   var subjectIndex = weeksSinceStart % subjects.length;
-  //console.log(startDate);
-  //console.log(weeksSinceStart);
-  //console.log(subjectIndex);
   var currentSubject = subjects[subjectIndex];
   var subjectSpan = document.getElementById("bible-lesson-subject");
   subjectSpan.innerHTML = currentSubject;

@@ -195,14 +195,17 @@ ul
 
 .carousel
   @include centered-block($border: true)
+  border-width: 1em 2em
+  line-height: 0
   width: 400px
-  img
-    max-width: 100%
-  &.wide
-    width: 650px
 
 .float
   float: right
+
+.home-image
+  border-radius: 5px
+  margin: 2em 5em
+  width: calc(100% - 10em)
 
 .home-buttons
   display: flex

@@ -10,14 +10,14 @@ permalink: /lectures-and-events/
 # Upcoming Lectures & Events
 
 <aside class="carousel">
-  <img alt="" src="/media/fellowship.jpg">
-  <img alt="" src="/media/ss-meeting-1.jpg">
-  <img alt="" src="/media/ss-meeting-2.jpg">
-  <img alt="" src="/media/ss-valentines-1.jpg">
-  <img alt="" src="/media/ss-pizza-1.jpg">
-  <img alt="" src="/media/ss-meeting-3.jpg">
-  <img alt="" src="/media/ss-pizza-2.jpg">
-  <img alt="" src="/media/ss-valentines-2.jpg">
+  <img alt="" data-lazy="/media/fellowship.jpg">
+  <img alt="" data-lazy="/media/ss-meeting-1.jpg">
+  <img alt="" data-lazy="/media/ss-meeting-2.jpg">
+  <img alt="" data-lazy="/media/ss-valentines-1.jpg">
+  <img alt="" data-lazy="/media/ss-pizza-1.jpg">
+  <img alt="" data-lazy="/media/ss-meeting-3.jpg">
+  <img alt="" data-lazy="/media/ss-pizza-2.jpg">
+  <img alt="" data-lazy="/media/ss-valentines-2.jpg">
 </aside>
 <script src="/assets/carousel.js"></script>
 
