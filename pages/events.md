@@ -9,7 +9,16 @@ permalink: /lectures-and-events/
 
 # Upcoming Lectures & Events
 
-<aside class="carousel">
+<div class="highlight-box" markdown="1">
+
+* [A Spiritual Revolution: The Quest to Experience God](/lecture2020/)<br>
+  <time datetime="2020-02-24T19:30:00.000-0800">Monday, February 24, 2020 @ 7:30 pm</time>
+
+  Giulia Nesi, CSB, gives a free community lecture.
+
+</div>
+
+<aside class="carousel" style="margin-top: 3em">
   <img alt="" data-lazy="/media/fellowship.jpg">
   <img alt="" data-lazy="/media/ss-meeting-1.jpg">
   <img alt="" data-lazy="/media/ss-meeting-2.jpg">

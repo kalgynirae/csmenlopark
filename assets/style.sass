@@ -9,6 +9,7 @@ $border-gray: #a0a0a0
 $button-blue: #378de5
 $link-blue: #0090e0
 $green: #4e9a06
+$yellow: #d4b800
 $red: #bf3d3d
 
 @mixin centered-block($border)
@@ -139,6 +140,10 @@ ul
   #bible-lesson-subject
     font-weight: bold
 
+.announcement-banner
+  @extend .lesson-subject
+  background: lighten(desaturate($yellow, 30), 40)
+
 .content-and-sidebar
   display: flex
   flex: auto
@@ -229,3 +234,8 @@ ul
   color: darken($green, 15)
   margin: 3em auto
   padding: 0 1em
+
+.highlight-box
+  background: lighten(desaturate($yellow, 30), 40)
+  margin: 0 -1rem
+  padding: 0 1rem
