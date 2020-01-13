@@ -38,6 +38,8 @@ First Church of Christ, Scientist<br>
 201 Ravenswood Avenue, Menlo Park, CA
 </address>
 
+RSVP (optional) via Eventbrite: <a href="https://csmenlopark.eventbrite.com" rel="external" target="_blank">csmenlopark.eventbrite.com</a>
+
 Free Childcare provided on site
 
 </article>
