@@ -1,6 +1,6 @@
 ---
 title: "A Spiritual Revolution: The Quest to Experience God"
-permalink: /lecture2020/
+permalink: /lectures-and-events/a-spiritual-revolution-lecture-2020/
 ---
 
 <article markdown="1">
