@@ -11,13 +11,6 @@ keywords:
   - healing
 ---
 
-<aside class="announcement-banner">
-  <a href="{% link pages/lecture2020.md %}">
-    <time datetime="2020-02-24T19:30:00.000-0800">Monday, February 24, 2020 @ 7:30 pm</time>:
-    <em>A Spiritual Revolution: The Quest to Experience God</em> (free community lecture)
-  </a>
-</aside>
-
 <section markdown="1">
 
 <img alt="" src="/media/church-front.jpg" class="home-image">
