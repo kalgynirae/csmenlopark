@@ -5,10 +5,6 @@ permalink: /services-and-sunday-school/
 
 <div class="content-and-sidebar">
 
-<aside markdown="1">
-{% include visit.md %}
-</aside>
-
 <section markdown="1">
 
 <aside class="carousel">
@@ -53,5 +49,9 @@ supervision of an experienced adult. Infants and children who are too young to
 attend Sunday School are cared for lovingly.
 
 </section>
+
+<aside class="left" markdown="1">
+{% include visit.md %}
+</aside>
 
 </div>

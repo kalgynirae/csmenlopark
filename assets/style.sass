@@ -11,6 +11,7 @@ $link-blue: #0090e0
 $green: #4e9a06
 $yellow: #d4b800
 $red: #bf3d3d
+$mobile-width: 700px
 
 @mixin centered-block($border)
   @if $border
@@ -28,12 +29,13 @@ body
   line-height: 1.5
   margin: auto
   max-width: 1100px
-  min-width: 700px
   padding: 1rem 1.5rem
+  @media (max-width: $mobile-width)
+    padding: 1rem
 
 a
   color: inherit
-  transition: color 0.15s linear
+  transition: color 0.10s linear
   &:hover
     color: $link-blue
 
@@ -95,6 +97,13 @@ ul
     font-weight: normal
     margin: 0
     padding-top: 1rem
+    @media (max-width: $mobile-width)
+      font-size: 1.6em
+      line-height: 1
+  address
+    @media (max-width: $mobile-width)
+      font-size: 0.9em
+      line-height: 1
 
 .menu
   align-content: space-around
@@ -104,6 +113,8 @@ ul
   justify-content: space-between
   line-height: 3em
   margin-top: 0.25em
+  @media (max-width: $mobile-width)
+    line-height: 2.5em
   a
     border-radius: 1rem 1rem 0 0
     display: block
@@ -117,15 +128,22 @@ ul
 .content > *
   background: #ffffff
   border: solid 1px $border-gray
+  @media (max-width: $mobile-width)
+    border-left: none
+    border-right: none
   margin: 0 -1rem
   overflow: auto
   padding: 0 1rem
   &:first-child
     border-radius: 1rem 1rem 0 0
+    @media (max-width: $mobile-width)
+      border-radius: 0
   &:not(:first-child)
     border-top: none
   &:last-child
     border-radius: 0 0 1rem 1rem
+    @media (max-width: $mobile-width)
+      border-radius: 0
 
 .lesson-subject
   background: $bg-gray
@@ -149,14 +167,27 @@ ul
   flex: auto
   > aside
     flex-shrink: 2
-    &:first-child
+    &.left
       border-right: 1px solid $border-gray
       margin-right: 1rem
       padding-right: 1rem
-    &:last-child
+      order: -1
+    &.right
       border-left: 1px solid $border-gray
       margin-left: 1rem
       padding-left: 1rem
+      order: 1
+  @media (max-width: $mobile-width)
+    display: block
+    > aside.left, > aside.right
+      border-left: none
+      border-right: none
+      margin: 0
+      padding: 0
+    > aside:first-child
+      border-bottom: 1px solid $border-gray
+    > aside:last-child
+      border-top: 1px solid $border-gray
 
 .footer
   font-size: 0.9em
@@ -211,6 +242,10 @@ ul
   border-radius: 5px
   margin: 2em 5em
   width: calc(100% - 10em)
+  @media (max-width: $mobile-width)
+    border-radius: 0
+    margin: -1rem -1rem 0
+  width: calc(100% + 2rem)
 
 .home-buttons
   display: flex

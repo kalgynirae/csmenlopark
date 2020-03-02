@@ -28,7 +28,7 @@ Service for food and fellowship. All are welcome.
 
 </section>
 
-<aside markdown="1">
+<aside class="right" markdown="1">
 
 ## Attend a Christian Science Lecture
 

@@ -44,7 +44,7 @@ to help others know and experience how loved we all are by God.
 
 </section>
 
-<aside markdown="1">
+<aside class="right" markdown="1">
 {% include visit.md %}
 </aside>
 
