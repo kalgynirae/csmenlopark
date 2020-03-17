@@ -14,6 +14,14 @@
 {% include header.html %}
 {% include menu.html %}
   <div class=content>
+    {% if page.title != "Online Services" %}
+    <aside class="announcement-banner">
+      <a href="{% link pages/online-services.md %}">
+        <strong>Online Sunday and Wednesday services:</strong>
+        <span style="text-decoration: underline">Click for details.</span>
+      </a>
+    </aside>
+    {% endif %}
 {{ content }}
 {% include lesson-subject.html %}
   </div>
