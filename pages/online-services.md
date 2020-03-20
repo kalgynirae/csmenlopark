@@ -29,4 +29,11 @@ which time the service will begin.  Participants will be automatically muted,
 except during testimonies, when you will have the option to unmute and share a
 testimony.
 
+## Sunday School
+
+Several of our Sunday School teachers will be holding their classes online. If
+you're interested, please reach out to our clerk at
+<a href="mailto:csmenloparkclerk@gmail.com">csmenloparkclerk@gmail.com</a> for
+information.
+
 </section>
