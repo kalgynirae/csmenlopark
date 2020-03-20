@@ -14,15 +14,25 @@ Until further notice, we are holding our Sunday and Wednesday services via Zoom.
 
 ## How to join
 
+### Sunday, March 22, 2020
+
+Instructions will be the same as for Wednesday but with an updated link and
+meeting ID. The updated information will be posted by Saturday evening.
+
 ### Wednesday, March 18, 2020
 
 There are two ways to join the Zoom meeting:
 
-* You may join from your computer or smartphone by clicking on this link: <a href="https://us04web.zoom.us/j/983718283" rel="external" target="_blank">https://us04web.zoom.us/j/983718283</a>
+* You may join from your computer or smartphone by clicking this link:
+  <a class="blue" href="https://us04web.zoom.us/j/983718283" rel="external" target="_blank">https://us04web.zoom.us/j/983718283</a>
+  <br>
+  (Note: If you don't already have the Zoom application installed on your
+  device, clicking the link will take you to instructions for how to install
+  it.)
 
-* You can join via regular phone call:
-  1. Dial <a href="tel:+16699006833">(669) 900-6833</a>
-  2. When prompted, enter this meeting ID: **`983 718 283`**
+* You may join via a regular phone call:
+  1. Dial <a class="blue" href="tel:+16699006833">(669) 900-6833</a>
+  2. When prompted, enter this meeting ID: <span class="meeting-id"><span>983</span><span>718</span><span>283</span></span>
 
 The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, at
 which time the service will begin.  Participants will be automatically muted,
