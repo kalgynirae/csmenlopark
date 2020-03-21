@@ -7,37 +7,48 @@ permalink: /online-services/
 
 # Online Services
 
-Until further notice, we are holding our Sunday and Wednesday services via Zoom.
+Until further notice, we are holding our Sunday and Wednesday services online
+via Zoom.
 
-* Sunday: <time datetime="10:00">10:00 am</time>
-* Wednesday: <time datetime="19:30">7:30 pm</time>
-
-## How to join
-
-### Sunday, March 22, 2020
-
-Instructions will be the same as for Wednesday but with an updated link and
-meeting ID. The updated information will be posted by Saturday evening.
-
-### Wednesday, March 18, 2020
+## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
 
-* You may join from your computer or smartphone by clicking this link:
-  <a class="blue" href="https://us04web.zoom.us/j/983718283" rel="external" target="_blank">https://us04web.zoom.us/j/983718283</a>
-  <br>
-  (Note: If you don't already have the Zoom application installed on your
-  device, clicking the link will take you to instructions for how to install
-  it.)
+* You may join from your computer or smartphone:
+  1. Click this link:
+    <a class="blue" href="https://zoom.us/j/591403489?pwd=QmZlaXk0TzVCWWpJQXIxb043eFYwUT09" rel="external" target="_blank">https://zoom.us/j/591403489?pwd=QmZlaXk0TzVCWWpJQXIxb043eFYwUT09</a>
+    <br>
+    (Note: If you don't already have the Zoom application installed, clicking the
+    link will take you to instructions for installing it.)
+  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>591</span><span>403</span>489</span>
+  3. If prompted, enter this **password**: <span class="meeting-password"><span>126</span>535</span>
 
-* You may join via a regular phone call:
+<!---->
+* You may join via a regular telephone call:
   1. Dial <a class="blue" href="tel:+16699006833">(669) 900-6833</a>
-  2. When prompted, enter this meeting ID: <span class="meeting-id"><span>983</span><span>718</span><span>283</span></span>
+  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>591</span><span>403</span>489</span>
+  3. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
 
-The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, at
-which time the service will begin.  Participants will be automatically muted,
-except during testimonies, when you will have the option to unmute and share a
-testimony.
+The meeting will open at 9:45am. We will have a prelude from 9:50–10:00, then
+the service will begin.  Participants will be automatically muted during the
+service.
+
+
+## Wednesday <time datetime="19:30">7:30 pm</time>
+
+Follow the instructions for Sunday above. (We now have a *recurring* Zoom
+meeting, which means we use the same link and meeting ID for every service.)
+
+The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, then
+the service will begin.  Participants will be automatically muted during the
+service. For testimonies, if you wish to share, please use the *Raise Hand*
+feature and wait for the usher to call on you:
+
+* To raise your hand in the Zoom application, find and click the **Participants** button to reveal the
+  participant list, then find and click the **Raise Hand** button.
+
+* To raise your hand via telephone, dial <span class="phone-keypresses">*9</span>.
+
 
 ## Sunday School
 
