@@ -22,8 +22,6 @@ of Christ Jesus. Christian Science teaches that God is Love and that we are His
 beloved children. Understanding God's nature and His power leads to healing in
 individual lives, as well as in the community and the world.
 
-<script src="https://www.christianscience.com/includes/widgets/prayer-response-page-3.js" type="text/javascript"></script>
-
 <div class="home-buttons">
   <div>
     <img src="/media/god-is-love.jpg">
