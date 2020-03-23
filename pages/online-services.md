@@ -3,6 +3,8 @@ title: Online Services
 permalink: /online-services/
 ---
 
+<div class="content-and-sidebar">
+
 <section markdown="1">
 
 # Online Services
@@ -58,3 +60,9 @@ you're interested, please reach out to our clerk at
 information.
 
 </section>
+
+<aside class="right">
+<script src="https://www.christianscience.com/includes/widgets/prayer-response-page-3.js" type="text/javascript"></script>
+</aside>
+
+</div>
