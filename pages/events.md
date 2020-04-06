@@ -9,6 +9,15 @@ permalink: /lectures-and-events/
 
 # Upcoming Lectures & Events
 
+<div class="highlight-box" markdown="1">
+
+* <a href="https://christianscienceoakland.org" rel="external" target="_blank">Find Innocence That Is Powerful, Not Vulnerable</a><br>
+  <time datetime="2020-04-12T14:00:00.000-0700">Easter Sunday, April 12, 2020 @ 2:00 pm</time>
+
+  Brian G. Pennix, CSB, will give this online lecture. Please visit <a href="https://christianscienceoakland.org" rel="external" target="_blank">christianscienceoakland.org</a> for more information.
+
+</div>
+
 <aside class="carousel" style="margin-top: 3em">
   <img alt="" data-lazy="/media/fellowship.jpg">
   <img alt="" data-lazy="/media/ss-meeting-1.jpg">
