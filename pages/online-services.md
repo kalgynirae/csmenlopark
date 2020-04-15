@@ -18,17 +18,17 @@ There are two ways to join the Zoom meeting:
 
 * You may join from your computer or smartphone:
   1. Click this link:
-    <a class="blue" href="https://zoom.us/j/591403489?pwd=QmZlaXk0TzVCWWpJQXIxb043eFYwUT09" rel="external" target="_blank">Join Meeting</a>
+    <a class="blue" href="https://us02web.zoom.us/j/174873568?pwd=eXh1emxnTFptYVBsZmFxTUxBMmk0UT09" rel="external" target="_blank">Join Meeting</a>
     <br>
     (Note: If you don't already have the Zoom application installed, clicking the
     link will take you to instructions for installing it.)
-  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>591</span><span>403</span>489</span>
-  3. If prompted, enter this **password**: <span class="meeting-password"><span>126</span>535</span>
+  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
+  3. If prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
 
 <!---->
 * You may join via a regular telephone call:
   1. Dial <a class="blue" href="tel:+16699006833">(669) 900-6833</a>
-  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>591</span><span>403</span>489</span>
+  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
   3. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
 
 The meeting will open at 9:45am. We will have a prelude from 9:50–10:00, then
