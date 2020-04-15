@@ -27,7 +27,7 @@ There are two ways to join the Zoom meeting:
 
 <!---->
 * You may join via a regular telephone call:
-  1. Dial <a class="blue" href="tel:+16699006833">(669) 900-6833</a>
+  1. Dial <a class="blue" href="tel:+16699009128">(669) 900-9128</a>
   2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
   3. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
 
