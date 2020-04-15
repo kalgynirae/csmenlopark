@@ -14,6 +14,8 @@ via Zoom.
 
 ## Sunday <time datetime="10:00">10:00 am</time>
 
+<p class="highlight-box">Note: Meeting info is updated for April 15 and future meetings!</p>
+
 There are two ways to join the Zoom meeting:
 
 * You may join from your computer or smartphone:
@@ -38,8 +40,7 @@ service.
 
 ## Wednesday <time datetime="19:30">7:30 pm</time>
 
-Follow the instructions for Sunday above. (We now have a *recurring* Zoom
-meeting, which means we use the same link and meeting ID for every service.)
+Follow the instructions for Sunday above.
 
 The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, then
 the service will begin.  Participants will be automatically muted during the
