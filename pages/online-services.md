@@ -12,9 +12,9 @@ permalink: /online-services/
 Until further notice, we are holding our Sunday and Wednesday services online
 via Zoom.
 
-## Sunday <time datetime="10:00">10:00 am</time>
+<p class="highlight-box">Note: If you are looking for the connection info for the <strong>Quarterly Business Meeting</strong>, check for an email that was sent by Pam on April 24 with subject <em>Important Information for the April QBM</em>. That email contains the Zoom connection information for the meeting.</p>
 
-<p class="highlight-box">Note: Meeting info is updated for April 15 and future meetings!</p>
+## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
 
