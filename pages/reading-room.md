@@ -48,6 +48,16 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 
 <section markdown="1">
 
+<div class="highlight-box" markdown="1">
+
+# Full Text Bible Lesson
+
+Since our Reading Room is temporarily closed, to arrange to purchase the monthly
+Full Text Bible Lesson, please contact Sharon at
+<a href="tel:+16503253653">(650) 325-3653</a>.
+
+</div>
+
 # Spiritual Resources
 
 * <a href="https://www.christianscience.com/" rel="external" target="_blank">ChristianScience.com</a>  
