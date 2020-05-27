@@ -12,6 +12,28 @@ permalink: /online-services/
 Until further notice, we are holding our Sunday and Wednesday services online
 via Zoom.
 
+<div class="highlight-box" markdown="1">
+
+## Required Zoom Update
+
+Zoom is requiring all users to update their Zoom applications to version 5.0
+**before May 30**.  This is because Zoom will start to enforce new security
+features for all meetings on that date, and older versions of the Zoom
+application cannot handle the new security features.  (For more information, see
+<a href="https://blog.zoom.us/wordpress/2020/04/27/its-here-5-things-to-know-about-zoom-5-0/" rel="external" target="_blank">5 Things to Know About Zoom 5.0</a>.)
+
+If you use the Zoom app on a computer, visit the
+<a href="https://zoom.us/download" rel="external" target="_blank">Zoom download page</a>
+to download the newest version of the Zoom app.
+
+If you use the Zoom app on a mobile device, check for updates through your
+device's app store.
+
+If you connect to our meetings via phone call, you do not need to update
+anything. Connecting via phone call is not affected by these changes.
+
+</div>
+
 ## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
