@@ -16,7 +16,7 @@ Reading Rooms are open to people of all faiths, backgrounds, and ways of life.
 
 <dl>
   <dt>Hours</dt>
-  <dd><del>Monday – Friday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time></del><br><p class="highlight-box">Temporarily closed</p></dd>
+  <dd>Monday – Friday, <time datetime="9:00">9 am</time> – <time datetime="17:00">5 pm</time><br>(yes, we're re-opened!)</dd>
   <dt>Address</dt>
   <dd><address>1127 Chestnut St<br>Menlo Park, CA 94025</address></dd>
   <dt>Phone</dt>
@@ -47,16 +47,6 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 </aside>
 
 <section markdown="1">
-
-<div class="highlight-box" markdown="1">
-
-# Full Text Bible Lesson
-
-Since our Reading Room is temporarily closed, to arrange to purchase the monthly
-Full Text Bible Lesson, please contact Sharon at
-<a href="tel:+16503253653">(650) 325-3653</a>.
-
-</div>
 
 # Spiritual Resources
 
