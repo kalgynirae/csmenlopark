@@ -3,6 +3,7 @@
 ## How to test
 
 1. Install the `gem` tool.
-2. `gem install bundler`
-3. ... somehow install the project's dependencies using the `bundle` command
-4. `bundle exec jekyll serve` to run the local test server.
+2. Use `gem` to install the `bundle` tool: `gem install bundler`.
+3. Use `bundle` to install all of the project dependencies: `bundle install`.
+4. Use `bundle` to run the test server: `bundle exec jekyll serve`.
+5. Visit <https://localhost:4000/>.
