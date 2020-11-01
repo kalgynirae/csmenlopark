@@ -7,7 +7,7 @@ permalink: /ss/
 
 # Online Sunday School
 
-Here's how to join onlin Sunday School:
+Here's how to join online Sunday School:
 
 1. Click this link:
   <a class="blue" href="https://us02web.zoom.us/j/88145924691?pwd=TWIrY0ZXZGhYUVBjSTkzNUlwU0paQT09" rel="external" target="_blank">Join Meeting</a>
