@@ -54,7 +54,7 @@ feature and wait for the usher to call on you:
 
 ## Sunday School
 
-Several of our Sunday School teachers will be holding their classes online. If
+Several of our Sunday School teachers are holding their classes online. If
 you're interested, please reach out to our clerk at
 <a href="mailto:csmenloparkclerk@gmail.com">csmenloparkclerk@gmail.com</a> for
 information.
