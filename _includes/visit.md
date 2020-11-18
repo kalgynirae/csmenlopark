@@ -11,6 +11,8 @@
 * Testimony Meeting: <time datetime="19:30">7:30 pm</time>
 * <strong class="highlight-box">Currently <a href="{% link pages/online-services.md %}">held online</a></strong>
 
+Each service lasts about 1 hour.
+
 <hr>
 
 ## Contact Information
