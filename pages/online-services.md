@@ -12,6 +12,11 @@ permalink: /online-services/
 Until further notice, we are holding our Sunday and Wednesday services online
 via Zoom.
 
+## Thanksgiving <time datetime="10:00">10:00 am</time> (Thursday, November 26)
+
+Our Thanksgiving service will use the same Zoom meeting details as our Sunday
+and Wednesday services (see below).
+
 ## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
