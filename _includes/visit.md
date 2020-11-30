@@ -2,10 +2,6 @@
 
 <img alt="Church entrance" src="/media/church-entrance.jpg">
 
-### Thanksgiving (Thursday, November 26)
-* Church Service: <time datetime="10:00">10:00 am</time>
-* <strong class="highlight-box">Will be <a href="{% link pages/online-services.md %}">held online</a></strong>
-
 ### Sunday
 * Church Service: <time datetime="10:00">10:00 am</time>
 * Sunday School: <time datetime="10:00">10:00 am</time>
