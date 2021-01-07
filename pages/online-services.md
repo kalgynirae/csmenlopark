@@ -12,11 +12,18 @@ permalink: /online-services/
 Until further notice, we are holding our Sunday and Wednesday services online
 via Zoom.
 
+<p class="highlight-box" markdown="1">
+
+**NOTE:** Due to technical difficulties, we had to switch to a new meeting link
+at the last minute on Wednesday, January 6.  The phone instructions were not
+updated promptly because we didn't know the password of the new meeting.  They
+are now updated, and we'll have this all sorted out before Sunday.
+
+</p>
+
 ## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
-
-<strong>NOTE: You're seeing the NEW LINK.</strong>
 
 * You may join from your computer or smartphone:
   1. Click this link:
@@ -24,15 +31,14 @@ There are two ways to join the Zoom meeting:
     <br>
     (Note: If you don't already have the Zoom application installed, clicking the
     link will take you to instructions for installing it.)
-  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
-  3. If prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
+  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>201</span><span>777</span>3525</span>
+  3. If prompted, enter this **passcode**: <span class="meeting-password"><span>9lb</span>yPn</span>
 
 <!---->
 * You may join via a regular telephone call:
   1. Dial <a class="blue" href="tel:+16699009128">(669) 900-9128</a>
-  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
-  3. If prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
-  4. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
+  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>201</span><span>777</span>3525</span>
+  3. When prompted, enter this **password**: <span class="meeting-password"><span>496</span>854</span>
 
 The meeting will open at 9:45am. We will have a prelude from 9:50–10:00, then
 the service will begin.  Participants will be automatically muted during the
