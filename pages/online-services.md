@@ -14,10 +14,11 @@ via Zoom.
 
 <p class="highlight-box" markdown="1">
 
-**NOTE:** Due to technical difficulties, we had to switch to a new meeting link
-at the last minute on Wednesday, January 6.  The phone instructions were not
-updated promptly because we didn't know the password of the new meeting.  They
-are now updated, and we'll have this all sorted out before Sunday.
+After some technical issues on Wednesday, January 6, we have updated this page
+with the correct meeting details for services going forward.  It's the same
+link, meeting ID, and password that we were using prior to Wednesday.  We will
+continue using this indefinitely (but will update this page if anything changes,
+of course).
 
 </p>
 
@@ -27,18 +28,19 @@ There are two ways to join the Zoom meeting:
 
 * You may join from your computer or smartphone:
   1. Click this link:
-    <a class="button" href="https://us02web.zoom.us/j/2017773525?pwd=WTF1eXNvalByRHo1NkNab0JCOUhsZz09" rel="external" target="_blank">Join Meeting</a>
+    <a class="button" href="https://us02web.zoom.us/j/174873568?pwd=eXh1emxnTFptYVBsZmFxTUxBMmk0UT09" rel="external" target="_blank">Join Meeting</a>
     <br>
     (Note: If you don't already have the Zoom application installed, clicking the
     link will take you to instructions for installing it.)
-  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>201</span><span>777</span>3525</span>
-  3. If prompted, enter this **passcode**: <span class="meeting-password"><span>9lb</span>yPn</span>
+  2. If prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
+  3. If prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
 
 <!---->
 * You may join via a regular telephone call:
   1. Dial <a class="blue" href="tel:+16699009128">(669) 900-9128</a>
-  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>201</span><span>777</span>3525</span>
-  3. When prompted, enter this **password**: <span class="meeting-password"><span>496</span>854</span>
+  2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>174</span><span>873</span>568</span>
+  3. When prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
+  4. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
 
 The meeting will open at 9:45am. We will have a prelude from 9:50–10:00, then
 the service will begin.  Participants will be automatically muted during the
