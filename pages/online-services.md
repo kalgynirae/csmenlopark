@@ -16,9 +16,11 @@ via Zoom.
 
 There are two ways to join the Zoom meeting:
 
+<strong>NOTE: You're seeing the NEW LINK.</strong>
+
 * You may join from your computer or smartphone:
   1. Click this link:
-    <a class="button" href="https://us02web.zoom.us/j/174873568?pwd=eXh1emxnTFptYVBsZmFxTUxBMmk0UT09" rel="external" target="_blank">Join Meeting</a>
+    <a class="button" href="https://us02web.zoom.us/j/2017773525?pwd=WTF1eXNvalByRHo1NkNab0JCOUhsZz09" rel="external" target="_blank">Join Meeting</a>
     <br>
     (Note: If you don't already have the Zoom application installed, clicking the
     link will take you to instructions for installing it.)
