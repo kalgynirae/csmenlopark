@@ -12,16 +12,6 @@ permalink: /online-services/
 Until further notice, we are holding our Sunday and Wednesday services online
 via Zoom.
 
-<p class="highlight-box" markdown="1">
-
-After some technical issues on Wednesday, January 6, we have updated this page
-with the correct meeting details for services going forward.  It's the same
-link, meeting ID, and password that we were using prior to Wednesday.  We will
-continue using this indefinitely (but will update this page if anything changes,
-of course).
-
-</p>
-
 ## Sunday <time datetime="10:00">10:00 am</time>
 
 There are two ways to join the Zoom meeting:
