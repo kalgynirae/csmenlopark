@@ -270,17 +270,29 @@ ul
   line-height: 0
   width: 400px
 
+.columns
+  display: flex
+  gap: 1em
+  justify-content: space-between
+  > *
+    flex: 50%
+
 .float
   float: right
 
 .home-image
   border-radius: 5px
-  margin: 2em 5em
-  width: calc(100% - 10em)
+  margin: 2rem 5rem
+  width: calc(100% - 10rem)
   @media (max-width: $mobile-width)
     border-radius: 0
     margin: -1rem -1rem 0
     width: calc(100% + 2rem)
+
+.home-image-caption
+  margin: -2rem 5rem 2rem
+  @media (max-width: $mobile-width)
+    margin: 0
 
 .home-buttons
   display: flex
