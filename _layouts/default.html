@@ -22,6 +22,15 @@
       </a>
     </aside>
     {% endif %}
+    {% if page.title != "Lectures & Events" and page.title != "Love without limit, Life without fear" %}
+    <aside class="announcement-banner">
+      <a href="{% link pages/lecture2021.md %}">
+        <strong>Sunday, February 14, 7:00 pm:</strong>
+        <span style="text-decoration: underline">Love without limit, Life without fear</span>
+        — Online lecture by <strong>Fujiko Takai Signs, CSB</strong>
+      </a>
+    </aside>
+    {% endif %}
 {{ content }}
 {% include lesson-subject.html %}
   </div>
