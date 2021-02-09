@@ -28,8 +28,7 @@ Christian Science practitioner and teacher
 Member of the Christian Science Board of Lectureship
 
 <br>
-For more information, contact First Church of Christ, Scientist, Menlo Park at
-<a href="tel:+15105526829">(510) 552-6829</a>.
+For more information, contact us at <a href="tel:+15105526829">(510) 552-6829</a>.
 
 </div>
 
