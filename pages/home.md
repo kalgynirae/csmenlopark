@@ -11,6 +11,13 @@ keywords:
   - healing
 ---
 
+<aside class="regular-banner">
+  <a href="{% link pages/lecture2021.md %}">
+    Recording of the February 14 lecture is coming soon!
+    <span style="text-decoration: underline">Check here</span> in a few days.
+  </a>
+</aside>
+
 <section markdown="1">
 
 <img alt="" src="/media/church-front.jpg" class="home-image">
