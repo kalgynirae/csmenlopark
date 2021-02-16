@@ -19,6 +19,10 @@ A talk on Christian Science<br>
 <time datetime="2021-02-14T19:00:00.000-0800">Sunday, February 14, 2021 @ 7:00 pm</time>
 </div>
 
+<p class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em" markdown="1">
+This lecture already occurred, but **video and audio recordings are coming soon!** Check back here in a few days.
+</p>
+
 <div class="columns" style="margin-top: 2rem">
 
 <div markdown="1">
