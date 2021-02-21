@@ -9,12 +9,13 @@ permalink: /lectures-and-events/
 
 # Upcoming Lectures & Events
 
-## Sunday, February 14, 2021 @ 7:00 pm (on Zoom)
+(none right now)
 
-[**Love without limit, Life without
+# Past Events
+
+* [**Love without limit, Life without
 fear**](/lectures-and-events/love-without-limit-life-without-fear-2021/) —
-a lecture given by **Fujiko Takai Signs, CSB**. [Click here for
-details.](/lectures-and-events/love-without-limit-life-without-fear-2021/)
+a lecture given by **Fujiko Takai Signs, CSB**, on Feburary 14, 2021.
 
 <aside class="carousel" style="margin-top: 3em">
   <img alt="" data-lazy="/media/fellowship.jpg">

@@ -13,8 +13,10 @@ keywords:
 
 <aside class="regular-banner">
   <a href="{% link pages/lecture2021.md %}">
-    Recording of the February 14 lecture is coming soon!
-    <span style="text-decoration: underline">Check here</span> in a few days.
+    <strong>Love without limit, Life without fear:</strong>
+    Watch a
+    <span style="text-decoration: underline">video recording</span>
+    of the February 14 lecture.
   </a>
 </aside>
 

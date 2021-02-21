@@ -19,9 +19,27 @@ A talk on Christian Science<br>
 <time datetime="2021-02-14T19:00:00.000-0800">Sunday, February 14, 2021 @ 7:00 pm</time>
 </div>
 
-<p class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em" markdown="1">
-This lecture already occurred, but **video and audio recordings are coming soon!** Check back here in a few days.
+<div class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em" markdown="1">
+
+## Recording
+
+You can watch the video recording of this lecture on YouTube:
+
+<iframe width="899" height="506" src="https://www.youtube-nocookie.com/embed/J4Zvvr74g_A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+You can also listen to the audio alone.  Note that, due to technical
+difficulties, the first 10 minutes of the lecture were not recorded
+successfully and are missing from the recording.
+
+<p>
+<audio controls preload="none" style="display: inline">
+  <source src="/media/lecture2021/Love without limit, Life without fear.mp3">
+</audio>
+<span>Download: <a href="/media/lecture2021/Love without limit, Life without fear.mp3" download>[mp3]</a></span>
 </p>
+
+</div>
+
 
 <div class="columns" style="margin-top: 2rem">
 
