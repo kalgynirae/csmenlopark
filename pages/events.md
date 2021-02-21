@@ -51,11 +51,6 @@ audiences.
 
 ## Watch a lecture online
 
-<strong>How you can change the world</strong> with Tom McElroy, CS, at the 2011
-Northwest Spiritual Activist Summit in Portland, Oregon.
-
-<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/qCjQhvcbSA8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <strong>A God's eye view of you</strong> with Fujiko Takai Signs, CSB, filmed in
 Pasco, Washington.
 
