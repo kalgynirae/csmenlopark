@@ -49,9 +49,6 @@ successfully and are missing from the recording.
 Christian Science practitioner and teacher  
 Member of the Christian Science Board of Lectureship
 
-<br>
-For more information, contact us at <a href="tel:+15105526829">(510) 552-6829</a>.
-
 </div>
 
 <div markdown="1" style="border-left: 1px solid #a0a0a0; padding-left: 1rem">
