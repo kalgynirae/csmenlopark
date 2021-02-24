@@ -19,6 +19,10 @@ A talk on Christian Science<br>
 <time datetime="2021-02-14T19:00:00.000-0800">Sunday, February 14, 2021 @ 7:00 pm</time>
 </div>
 
+**Fujiko Takai Signs, CSB**  
+Christian Science practitioner and teacher  
+Member of the Christian Science Board of Lectureship
+
 <div class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em" markdown="1">
 
 ## Recording
@@ -37,29 +41,6 @@ successfully and are missing from the recording.
 </audio>
 <span>Download: <a href="/media/lecture2021/Love without limit, Life without fear.mp3" download>[mp3]</a></span>
 </p>
-
-</div>
-
-
-<div class="columns" style="margin-top: 2rem">
-
-<div markdown="1">
-
-**Fujiko Takai Signs, CSB**  
-Christian Science practitioner and teacher  
-Member of the Christian Science Board of Lectureship
-
-</div>
-
-<div markdown="1" style="border-left: 1px solid #a0a0a0; padding-left: 1rem">
-
-Attend online via Zoom: <a class="button" href="https://www.zoom.us/j/88494572748" rel="external" target="_blank">Join Meeting</a>
-
-Or by phone:
-1. Dial <a class="blue" href="tel:+13017158592">(301) 715 8592</a>
-2. When prompted, enter this **meeting ID**: <span class="meeting-id"><span>884</span><span>9457</span>2748</span>
-
-</div>
 
 </div>
 
