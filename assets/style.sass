@@ -2,6 +2,7 @@
 ---
 
 @import normalize.css
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&display=swap')
 
 $bg-gray: #e8e7e5
 $bg-red: #c08080
@@ -60,6 +61,26 @@ time
 
 p > img
   @include centered-block($border: false)
+
+article
+  font-family: "Lora", serif
+  font-size: 1.15em
+  text-align: justify
+  text-rendering: optimizeLegibility
+
+  margin: 5rem auto 0
+  max-width: 680px
+  @media (max-width: $mobile-width)
+    max-width: none
+
+  -webkit-hyphens: auto
+  -ms-hyphens: auto
+  hyphens: auto
+
+  blockquote
+    background-color: $bg-gray
+    font-style: italic
+    font-weight: bold
 
 dl
   display: flex
