@@ -3,7 +3,7 @@ title: "A Spiritual Revolution: The Quest to Experience God"
 permalink: /lectures-and-events/a-spiritual-revolution-lecture-2020/
 ---
 
-<article markdown="1">
+<section markdown="1">
 
 <img alt="The SEEKER OF TRUTH will FIND IT. —Mary Baker Eddy" src="/media/lecture2020/banner.jpg" class="home-image">
 
@@ -42,4 +42,4 @@ RSVP (optional) via Eventbrite: <a href="https://csmenlopark.eventbrite.com" rel
 
 Free Childcare provided on site
 
-</article>
+</section>

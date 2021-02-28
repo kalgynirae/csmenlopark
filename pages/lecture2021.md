@@ -3,7 +3,7 @@ title: "Love without limit, Life without fear"
 permalink: /lectures-and-events/love-without-limit-life-without-fear-2021/
 ---
 
-<article markdown="1">
+<section markdown="1">
 
 <h1><img alt="Love without limit, Life without fear" src="/media/lecture2021/banner.jpg" class="home-image"></h1>
 
@@ -44,4 +44,4 @@ successfully and are missing from the recording.
 
 </div>
 
-</article>
+</section>
