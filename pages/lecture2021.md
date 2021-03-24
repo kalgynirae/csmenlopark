@@ -1,6 +1,8 @@
 ---
 title: "Love without limit, Life without fear"
 permalink: /lectures-and-events/love-without-limit-life-without-fear-2021/
+redirect_from:
+  - /lecture2021/
 ---
 
 <section markdown="1">
