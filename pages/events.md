@@ -9,7 +9,16 @@ permalink: /lectures-and-events/
 
 # Upcoming Lectures & Events
 
-(none right now)
+Many lectures are happening each week around the world, and most are broadcast
+online. You can use ChristianScience.com's
+<a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external" target="_blank">Find a lecture</a>
+page to search through the upcoming lectures.
+
+<a class="button" href="https://www.christianscience.com/find-us/find-a-lecture" rel="external" target="_blank">
+  Find an upcoming Christian Science Lecture
+</a>
+
+<br>
 
 # Past Events
 
@@ -38,24 +47,15 @@ Service for food and fellowship. All are welcome.
 
 <aside class="right" markdown="1">
 
-## Attend a Christian Science Lecture
-
-Lectures are based on the Bible and the writings of Mary Baker Eddy and are
-designed to bring the healing message of Christian Science to all kinds of
-audiences.
-
-<a class="button" href="https://www.christianscience.com/find-us/find-a-lecture" rel="external" target="_blank">
-  Find a Christian Science Lecture near you
-</a>
-
-<hr>
-
 ## Watch a lecture online
 
-<strong>A God's eye view of you</strong> with Fujiko Takai Signs, CSB, filmed in
-Pasco, Washington.
+<strong>Experiencing more of God's unlimited opportunity</strong> with Janet Hegarty, CSB (20 minutes)
 
-<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/-maaOuLzjiQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/cSqNC2E0Spo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<strong>A God's-eye view of you!</strong> with Fujiko Takai Signs, CSB (82 minutes)
+
+<iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/ctpsRvgzkfw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </aside>
 
