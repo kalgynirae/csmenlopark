@@ -20,9 +20,9 @@ permalink: /services-and-sunday-school/
 
 Our Sunday service is at <time datetime="10:00">10:00 am</time>.  This service
 provides an atmosphere for prayer and for listening to a
-<a href="https://www.christianscience.com/publications-and-activities/bible-lessons" rel="external" target="_blank">Bible Lesson</a>
+<a href="https://www.christianscience.com/publications-and-activities/bible-lessons" rel="external">Bible Lesson</a>
 that promotes healing.  The Bible Lesson is composed of citations from the Bible and
-<a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external" target="_blank">Science and Health</a>.
+<a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external">Science and Health</a>.
 Each service includes hymn singing by the congregation and an inspirational solo.
 
 ## Wednesday Meeting

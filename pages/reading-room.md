@@ -40,7 +40,7 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
   <dt>Phone</dt>
   <dd><a href="tel:+16508770105">(650) 877-0105</a></dd>
   <dt>Website</dt>
-  <dd><a href="https://csreadingroom-sfo.org/" rel="external" target="_blank">csreadingroom-sfo.org</a></dd>
+  <dd><a href="https://csreadingroom-sfo.org/" rel="external">csreadingroom-sfo.org</a></dd>
 </dl>
 
 
@@ -50,30 +50,30 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 
 # Spiritual Resources
 
-* <a href="https://www.christianscience.com/" rel="external" target="_blank">ChristianScience.com</a>  
+* <a href="https://www.christianscience.com/" rel="external">ChristianScience.com</a>  
   A complete source on Christian Science.
 
-* <a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external" target="_blank">Science and Health with Key to the Scriptures</a>  
+* <a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external">Science and Health with Key to the Scriptures</a>  
   Online version of Mary Baker Eddy's primary work along with translations,
   audio and e-book versions, and study tools.
 
-* <a href="https://www.marybakereddylibrary.org/" rel="external" target="_blank">Mary Baker Eddy Library</a>  
+* <a href="https://www.marybakereddylibrary.org/" rel="external">Mary Baker Eddy Library</a>  
   Information about the life and writings of Mary Baker Eddy.
 
-* <a href="https://www.csmonitor.com/" rel="external" target="_blank">The Christian Science Monitor</a>  
+* <a href="https://www.csmonitor.com/" rel="external">The Christian Science Monitor</a>  
   An independent international newspaper that delivers thoughtful, global
   coverage.
 
-* <a href="https://www.christianscience.com/christian-healing-today/daily-lift" rel="external" target="_blank">Daily Lift</a>  
+* <a href="https://www.christianscience.com/christian-healing-today/daily-lift" rel="external">Daily Lift</a>  
   Daily Lift podcasts are short takes on inspiring ideas to enrich your day and
   share with friends.
 
-* <a href="https://jsh.christianscience.com/" rel="external" target="_blank">JSH-Online</a>  
+* <a href="https://jsh.christianscience.com/" rel="external">JSH-Online</a>  
   Online access to the *Christian Science Journal*, the *Christian Science
   Sentinel*, print periodicals, articles, blogs, podcasts, over 30,000 minutes
   of SentinelRadio and audio chats, and a searchable archive going back to 1883.
 
-* <a href="https://sentinel.christianscience.com/" rel="external" target="_blank">Christian Science Sentinel</a>  
+* <a href="https://sentinel.christianscience.com/" rel="external">Christian Science Sentinel</a>  
   Each week the Christian Science Sentinel keeps readers spiritually alert and
   conscious of God's power in their daily lives.  It provides a prayerful window
   on your world—from current events to personal issues like health,
@@ -81,7 +81,7 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
   insights and examples of verified healings in Christian Science which will
   help you heal yourself and others.
 
-* <a href="https://journal.christianscience.com/" rel="external" target="_blank">Christian Science Journal</a>  
+* <a href="https://journal.christianscience.com/" rel="external">Christian Science Journal</a>  
   The Christian Science Journal records the healings and spiritual insights of
   those who faithfully practice Christian Science.  Individuals share how an
   ever-developing understanding of God has healed, enlightened, and blessed
@@ -91,7 +91,7 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
   well as a listing of all Christian Science churches and societies throughout
   the world.
 
-* <a href="https://biblelesson.christianscience.com/" rel="external" target="_blank">Christian Science Bible Lesson</a>  
+* <a href="https://biblelesson.christianscience.com/" rel="external">Christian Science Bible Lesson</a>  
   Bible Lessons from the Christian Science Quarterly provide a practical program
   of self-instruction in Christian Science. Lessons are made up of Bible texts
   followed by correlative passages from Science and Health. Each one is designed

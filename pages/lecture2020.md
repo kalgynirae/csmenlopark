@@ -25,7 +25,7 @@ Christian Science and former psychotherapist. In her talk, she will explain how
 experiencing God brings healing to our lives and is possible for anyone,
 anytime, anywhere. Giulia enjoys talking with people about their spiritual
 journey and sharing the profound insights contained in
-<a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external" target="_blank">
+<a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external">
 *Science and Health with Key to the Scriptures* by Mary Baker Eddy</a>. She's
 been on the faculty of Harvard Medical School's symposium "Spirituality &
 Healing in Medicine," managed a special project established to respond to the
@@ -40,7 +40,7 @@ First Church of Christ, Scientist<br>
 201 Ravenswood Avenue, Menlo Park, CA
 </address>
 
-RSVP (optional) via Eventbrite: <a href="https://csmenlopark.eventbrite.com" rel="external" target="_blank">csmenlopark.eventbrite.com</a>
+RSVP (optional) via Eventbrite: <a href="https://csmenlopark.eventbrite.com" rel="external">csmenlopark.eventbrite.com</a>
 
 Free Childcare provided on site
 

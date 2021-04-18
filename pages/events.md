@@ -11,10 +11,10 @@ permalink: /lectures-and-events/
 
 Many lectures are happening each week around the world, and most are broadcast
 online. You can use ChristianScience.com's
-<a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external" target="_blank">Find a lecture</a>
+<a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>
 page to search through the upcoming lectures.
 
-<a class="button" href="https://www.christianscience.com/find-us/find-a-lecture" rel="external" target="_blank">
+<a class="button" href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">
   Find an upcoming Christian Science Lecture
 </a>
 

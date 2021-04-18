@@ -33,7 +33,7 @@ Wednesday services</a>. Children and those up to age 20 are welcome to attend
 # What is Christian Science?
 
 Mary Baker Eddy, who discovered and founded Christian Science, defined it as
-"the law of God, the law of good..." (<a href="https://mbeinstitute.org/Prose_Works/Rudimental_Divine_Science.html" rel="external" target="_blank">Rudimental Divine Science</a>, p. 1). In
+"the law of God, the law of good..." (<a href="https://mbeinstitute.org/Prose_Works/Rudimental_Divine_Science.html" rel="external">Rudimental Divine Science</a>, p. 1). In
 Christian Science, God is understood to be infinite Love, and so invariably good
 that a clear glimpse of this through prayer has power to heal, redeem, and
 restore anyone.
@@ -52,7 +52,7 @@ relationship to God better through this Science of Christianity, their health is
 restored and character transformed. And each healing inspires a heartfelt desire
 to help others know and experience how loved we all are by God.
 
-<a class="button" href="https://www.christianscience.com/what-is-christian-science" rel="external" target="_blank">Learn more about Christian Science</a>
+<a class="button" href="https://www.christianscience.com/what-is-christian-science" rel="external">Learn more about Christian Science</a>
 
 # Reading Room in Downtown Menlo Park
 
