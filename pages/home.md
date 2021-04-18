@@ -13,15 +13,6 @@ redirect_from:
   - /about-us/
 ---
 
-<aside class="regular-banner">
-  <a href="{% link pages/lecture2021.md %}">
-    <strong>Love without limit, Life without fear:</strong>
-    Watch a
-    <span style="text-decoration: underline">video recording</span>
-    of the February 14 lecture.
-  </a>
-</aside>
-
 <img alt="" src="/media/church-front.jpg" class="home-image">
 
 <div class="content-and-sidebar">
