@@ -1,0 +1,83 @@
+{% if page %}{% set obj = page %}{% else %}{% set obj = section %}{% endif -%}
+<!DOCTYPE html>
+<html lang=en-us>
+<head>
+  <meta charset=utf-8>
+  <title>{{ obj.title }} | {{ config.title }}</title>
+  {% if obj.description -%}
+  <meta name=description content="{{ obj.description }}">
+  {% endif -%}
+  {% if obj.extra.keywords -%}
+  <meta name=keywords content="{{ obj.extra.keywords }}">
+  {% endif -%}
+  <meta name=viewport content="width=device-width">
+  <link rel=stylesheet href="/assets/style.css">
+  <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css" integrity="sha256-UK1EiopXIL+KVhfbFa8xrmAWPeBjMVdvYMYkTAEv/HI=" crossorigin=anonymous>
+  <link rel=stylesheet href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick-theme.min.css" integrity="sha256-4hqlsNP9KM6+2eA8VUT0kk4RsMRTeS7QGHIM+MZ5sLY=" crossorigin=anonymous>
+</head>
+<body>
+
+  <header class=header>
+    <img src="/assets/cross-and-crown.png" alt="Heal the sick • Raise the dead • Cleanse the lepers • Cast out demons">
+    <div>
+      <h1><strong>Christian Science Church</strong> Menlo Park</h1>
+      <address>
+        First Church of Christ, Scientist • 201 Ravenswood Avenue, Menlo Park, CA 94025
+      </address>
+    </div>
+  </header>
+
+  <script src="/assets/mobile-menu.js"></script>
+  <span id="menu-button">
+    <svg class="inline" viewBox="0 0 32 32" width="16" height="16">
+      <rect y="2" width="32" height="6"></rect>
+      <rect y="12" width="32" height="6"></rect>
+      <rect y="22" width="32" height="6"></rect>
+    </svg>
+    Menu
+  </span>
+  <nav id="menu">
+    <a href="{{ get_url(path="@/_index.md") | safe }}">Home</a>
+    <a href="{{ get_url(path="@/services.md") | safe }}">Church Services & Sunday School</a>
+    <a href="{{ get_url(path="@/reading-room.md") | safe }}">Reading Room & Spiritual Resources</a>
+    <a href="{{ get_url(path="@/events.md") | safe }}">Lectures & Events</a>
+    <a href="{{ get_url(path="@/youth.md") | safe }}">Youth</a>
+  </nav>
+
+  <div class=content>
+    {% if obj.title != "Online Services" %}
+    <aside class="regular-banner">
+      <a href="{{ get_url(path="@/online-services.md") | safe }}">
+        <strong>Online Sunday and Wednesday services:</strong>
+        <span style="text-decoration: underline">Click for details.</span>
+      </a>
+    </aside>
+    {% endif %}
+
+{{ obj.content | safe }}
+
+    <aside class=lesson-subject>
+      <a href="https://quarterly.christianscience.com/lesson" rel=external target=_blank>
+        The subject of this week’s <em>Bible Lesson</em> is: <span id=bible-lesson-subject>&nbsp;</span>
+      </a>
+    </aside>
+
+  </div>
+
+  <footer class=footer>
+    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+      <input type="hidden" name="cmd" value="_s-xclick" />
+      <input type="hidden" name="hosted_button_id" value="UKSS3WSKNL69G" />
+      <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+      <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+    </form>
+    <span class=copyright>First Church of Christ, Scientist, Menlo Park</span>
+    <address>201 Ravenswood Avenue, Menlo Park, CA 94025</address>
+  </footer>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js" integrity="sha256-4iQZ6BVL4qNKlQ27TExEhBN1HFPvAvAMbFavKKosSWQ=" crossorigin=anonymous></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin=anonymous></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.js" integrity="sha256-NXRS8qVcmZ3dOv3LziwznUHPegFhPZ1F/4inU7uC8h0=" crossorigin=anonymous></script>
+  <script src="/assets/carousel.js"></script>
+  <script src="/assets/lesson-subject.js"></script>
+</body>
+</html>

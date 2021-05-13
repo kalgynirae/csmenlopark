@@ -1,11 +1,11 @@
----
-title: Reading Room
-permalink: /reading-room-and-spiritual-resources/
----
++++
+title = "Reading Room"
+path = "/reading-room-and-spiritual-resources/"
++++
 
 <div class="content-and-sidebar">
 
-<aside class="right" markdown="1">
+<aside class="right">
 
 ## Reading Room, Downtown Menlo Park
 
@@ -46,7 +46,7 @@ We also invite you to visit the jointly-maintained Reading Room at SFO Terminal
 
 </aside>
 
-<section markdown="1">
+<section>
 
 # Spiritual Resources
 

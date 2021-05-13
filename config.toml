@@ -1,0 +1,10 @@
+base_url = "https://www.csmenlopark.org"
+title = "CS Menlo Park"
+default_language = "en"
+compile_sass = true
+
+[markdown]
+smart_punctuation = true
+
+[slugify]
+anchors = "off"

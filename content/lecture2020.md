@@ -1,11 +1,12 @@
----
-title: "A Spiritual Revolution: The Quest to Experience God"
-permalink: /lectures-and-events/a-spiritual-revolution-lecture-2020/
-redirect_from:
-  - /lecture2020/
----
++++
+title = "A Spiritual Revolution: The Quest to Experience God"
+path = "/lectures-and-events/a-spiritual-revolution-lecture-2020/"
+aliases = [
+  "/lecture2020/",
+]
++++
 
-<section markdown="1">
+<section>
 
 <img alt="The SEEKER OF TRUTH will FIND IT. —Mary Baker Eddy" src="/media/lecture2020/banner.jpg" class="home-image">
 
