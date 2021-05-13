@@ -1,15 +1,16 @@
----
-title: "Love without limit, Life without fear"
-permalink: /lectures-and-events/love-without-limit-life-without-fear-2021/
-redirect_from:
-  - /lecture2021/
----
++++
+title = "Love without limit, Life without fear"
+path = "/lectures-and-events/love-without-limit-life-without-fear-2021/"
+aliases = [
+  "/lecture2021/",
+]
++++
 
-<section markdown="1">
+<section>
 
 <h1><img alt="Love without limit, Life without fear" src="/media/lecture2021/banner.jpg" class="home-image"></h1>
 
-<div class="home-image-caption" markdown="1">
+<div class="home-image-caption">
 
 *At heart, we’re children who can sense a God that is unconditional Love and
 eternal Life. This revelation adjusts our lives to health and harmony.*
@@ -25,7 +26,7 @@ A talk on Christian Science<br>
 Christian Science practitioner and teacher  
 Member of the Christian Science Board of Lectureship
 
-<div class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em" markdown="1">
+<div class="highlight-box" style="margin-top: 1em; padding-top: 0.5em; padding-bottom: 0.5em">
 
 ## Recording
 

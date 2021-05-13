@@ -1,11 +1,11 @@
----
-title: Lectures & Events
-permalink: /lectures-and-events/
----
++++
+title = "Lectures & Events"
+path = "/lectures-and-events/"
++++
 
 <div class="content-and-sidebar">
 
-<section markdown="1">
+<section>
 
 # Upcoming Lectures & Events
 
@@ -38,14 +38,16 @@ a lecture given by **Fujiko Takai Signs, CSB**, on Feburary 14, 2021.
 </aside>
 <script src="/assets/carousel.js"></script>
 
-<aside class="fellowship-box" markdown="1">
+<aside class="fellowship-box">
+
 Join us the **second Sunday** of every month after our Sunday
 Service for food and fellowship. All are welcome.
+
 </aside>
 
 </section>
 
-<aside class="right" markdown="1">
+<aside class="right">
 
 ## Watch a lecture online
 

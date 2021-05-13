@@ -1,9 +1,9 @@
----
-title: Online Sunday School
-permalink: /ss/
----
++++
+title = "Online Sunday School"
+path = "/ss/"
++++
 
-<section markdown="1">
+<section>
 
 # Online Sunday School
 

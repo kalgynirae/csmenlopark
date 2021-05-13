@@ -1,11 +1,11 @@
----
-title: Testimonies of Healing
-permalink: /healings/
----
++++
+title = "Testimonies of Healing"
+path = "/healings/"
++++
 
-<div markdown="1">
+<div>
 
-<article markdown="1">
+<article>
 
 # Prayer eliminates the need for Caesarean delivery
 

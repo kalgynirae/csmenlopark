@@ -1,11 +1,11 @@
----
-title: Online Services
-permalink: /online-services/
----
++++
+title = "Online Services"
+path = "/online-services/"
++++
 
 <div class="content-and-sidebar">
 
-<section markdown="1">
+<section>
 
 # Online Services
 

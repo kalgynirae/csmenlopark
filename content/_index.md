@@ -1,23 +1,26 @@
----
-title: Home
-permalink: /
-description: >
-  The Church of Christ, Scientist, is designed to commemorate the words and
-  works of Christ Jesus. Christian Science teaches that God is Love and that we
-  are His beloved children. Understanding God's nature and His power leads to
-  healing in individual lives, as well as in the community and the world.
-keywords:
-  - Christian Science
-  - healing
-redirect_from:
-  - /about-us/
----
++++
+title = "Home"
+description = """\
+  The Church of Christ, Scientist, is designed to commemorate the words and \
+  works of Christ Jesus. Christian Science teaches that God is Love and that we \
+  are His beloved children. Understanding God's nature and His power leads to \
+  healing in individual lives, as well as in the community and the world.\
+  """
+keywords = [
+  "Christian Science",
+  "healing",
+]
+aliases = [
+  "/about-us/",
+]
+template = "page.html"
++++
 
-<img alt="" src="/media/church-front.jpg" class="home-image">
+<p><img alt="" src="/media/church-front.jpg" class="home-image"></p>
 
 <div class="content-and-sidebar">
 
-<section markdown="1">
+<section>
 
 # Welcome!
 
@@ -26,17 +29,18 @@ works of Christ Jesus. Christian Science teaches that God is Love and that we
 are His beloved children. Understanding God's nature and His power leads to
 healing in individual lives, as well as in the community and the world.
 
-You are welcome to join our <a href="{% link pages/services.md %}">Sunday and
-Wednesday services</a>. Children and those up to age 20 are welcome to attend
-<a href="{% link pages/services.md %}">Sunday School</a>.
+You are welcome to join our [Sunday and Wednesday services](@/services.md).
+Children and those up to age 20 are welcome to attend [Sunday
+School](@/services.md).
 
 # What is Christian Science?
 
 Mary Baker Eddy, who discovered and founded Christian Science, defined it as
-"the law of God, the law of good..." (<a href="https://mbeinstitute.org/Prose_Works/Rudimental_Divine_Science.html" rel="external">Rudimental Divine Science</a>, p. 1). In
-Christian Science, God is understood to be infinite Love, and so invariably good
-that a clear glimpse of this through prayer has power to heal, redeem, and
-restore anyone.
+"the law of God, the law of good..." ([Rudimental Divine
+Science](https://mbeinstitute.org/Prose_Works/Rudimental_Divine_Science.html),
+p. 1). In Christian Science, God is understood to be infinite Love, and so
+invariably good that a clear glimpse of this through prayer has power to heal,
+redeem, and restore anyone.
 
 A lifelong student of the Bible, who yearned from her youth to find deeper
 answers to the persistent question of human suffering, Mary Baker Eddy turned
@@ -59,12 +63,14 @@ to help others know and experience how loved we all are by God.
 Our Reading Room provides a quiet place to pray, study, and explore the Bible,
 the writings of Mary Baker Eddy, and Christian Science publications.
 
-<a class="button" href="{% link pages/reading-room.md %}">Learn more about our Reading Room</a>
+<a class="button" href="@/reading-room.md">Learn more about our Reading Room</a>
 
 </section>
 
-<aside class="right" markdown="1">
-{% include visit.md %}
+<aside class="right">
+
+{{ visit() }}
+
 </aside>
 
 </div>

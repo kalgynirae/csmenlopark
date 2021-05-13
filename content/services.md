@@ -1,11 +1,11 @@
----
-title: Church Services & Sunday School
-permalink: /services-and-sunday-school/
----
++++
+title = "Church Services & Sunday School"
+path = "/services-and-sunday-school/"
++++
 
 <div class="content-and-sidebar">
 
-<section markdown="1">
+<section>
 
 <aside class="carousel">
   <img alt="open hymnal and congregation singing" data-lazy="/media/hymn293.jpg">
@@ -20,9 +20,9 @@ permalink: /services-and-sunday-school/
 
 Our Sunday service is at <time datetime="10:00">10:00 am</time>.  This service
 provides an atmosphere for prayer and for listening to a
-<a href="https://www.christianscience.com/publications-and-activities/bible-lessons" rel="external">Bible Lesson</a>
+[Bible Lesson](https://www.christianscience.com/publications-and-activities/bible-lessons)
 that promotes healing.  The Bible Lesson is composed of citations from the Bible and
-<a href="https://www.christianscience.com/the-christian-science-pastor/science-and-health" rel="external">Science and Health</a>.
+[Science and Health](https://www.christianscience.com/the-christian-science-pastor/science-and-health).
 Each service includes hymn singing by the congregation and an inspirational solo.
 
 ## Wednesday Meeting
@@ -50,8 +50,10 @@ attend Sunday School are cared for lovingly.
 
 </section>
 
-<aside class="left" markdown="1">
-{% include visit.md %}
+<aside class="left">
+
+{{ visit() }}
+
 </aside>
 
 </div>

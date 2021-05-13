@@ -1,5 +1,0 @@
-destination: .site
-strict_front_matter: true
-title: "CS Menlo Park"
-plugins:
-  - jekyll-redirect-from
