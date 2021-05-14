@@ -1,7 +1,8 @@
 on: push
 jobs:
-  build:
+  build_and_publish:
     runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
     steps:
       - name: checkout
         uses: actions/checkout@v2
