@@ -1,6 +1,9 @@
 +++
 title = "Online Services"
 path = "/online-services/"
+
+[extra]
+hidden = true
 +++
 
 <div class="content-and-sidebar">

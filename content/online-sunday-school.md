@@ -1,6 +1,12 @@
 +++
 title = "Online Sunday School"
-path = "/ss/"
+path = "/online-sunday-school/"
+aliases = [
+  "/ss/",
+]
+
+[extra]
+hidden = true
 +++
 
 <section>
