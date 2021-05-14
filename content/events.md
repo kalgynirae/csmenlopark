@@ -14,9 +14,9 @@ online. You can use ChristianScience.com's
 <a href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">Find a lecture</a>
 page to search through the upcoming lectures.
 
-<a class="button" href="https://www.christianscience.com/find-us/find-a-lecture" rel="external">
-  Find an upcoming Christian Science Lecture
-</a>
+{% button(url="https://www.christianscience.com/find-us/find-a-lecture") %}
+Find an upcoming Christian Science Lecture
+{% end %}
 
 <br>
 

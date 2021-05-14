@@ -11,9 +11,9 @@ path = "/youth/"
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A5k1_egTw2w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<p>
-<a class="button" href="https://www.youtube.com/user/TMCYouthChannel/" rel="external">Find more videos from TMCYouth</a>
-</p>
+{% button(url="https://www.youtube.com/user/TMCYouthChannel/") %}
+Find more videos from TMCYouth
+{% end %}
 
 ## Sunday School
 
@@ -22,21 +22,17 @@ accepted as you discover the relevance and practicality of Bible—based
 spirituality, as taught in Christian Science.  Our Sunday School meets at the
 same time as our [Sunday service](@/services.md).
 
-<p>
-<a class="button" href="https://www.christianscience.com/youth/sunday-school" rel="external">
-  Learn more about Sunday School
-</a>
-</p>
+{% button(url="https://www.christianscience.com/youth/sunday-school") %}
+Learn more about Sunday School
+{% end %}
 
 ## Connect on Facebook to Christian Science youth around the world
 
 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTMCYouth%2F&tabs=timeline&width=500&height=420&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=false&appId=1495541403912226" width="500" height="420" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 
-<p>
-<a class="button" href="https://www.christianscience.com/youth" rel="external">
-  Find more resources for Christian Science Youth
-</a>
-</p>
+{% button(url="https://www.christianscience.com/youth") %}
+Find more resources for Christian Science Youth
+{% end %}
 
 </section>
 

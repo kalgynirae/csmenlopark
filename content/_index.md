@@ -56,14 +56,18 @@ relationship to God better through this Science of Christianity, their health is
 restored and character transformed. And each healing inspires a heartfelt desire
 to help others know and experience how loved we all are by God.
 
-<a class="button" href="https://www.christianscience.com/what-is-christian-science" rel="external">Learn more about Christian Science</a>
+{% button(url="https://www.christianscience.com/what-is-christian-science") %}
+Learn more about Christian Science
+{% end %}
 
 # Reading Room in Downtown Menlo Park
 
 Our Reading Room provides a quiet place to pray, study, and explore the Bible,
 the writings of Mary Baker Eddy, and Christian Science publications.
 
-<a class="button" href="@/reading-room.md">Learn more about our Reading Room</a>
+{% button(local="@/reading-room.md") %}
+Learn more about our Reading Room
+{% end %}
 
 </section>
 
