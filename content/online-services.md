@@ -47,13 +47,20 @@ Follow the instructions for Sunday above.
 The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, then
 the service will begin.  Participants will be automatically muted during the
 service. For testimonies, if you wish to share, please use the *Raise Hand*
-feature and wait for the usher to call on you:
+feature and wait for the usher to call on you.
 
-* To raise your hand in the Zoom application, find and click the **Participants** button to reveal the
-  participant list, then find and click the **Raise Hand** button.
-
-* To raise your hand via telephone, dial <span class="phone-keypresses">*9</span>.
-
+<details>
+  <summary>Instructions for raising your hand</summary>
+  <ul>
+    <li><strong>Mac or Windows:</strong> Click on <em>Reactions</em>, then click
+    on <em>Raise Hand</em>.</li>
+    <li><strong>Older Zoom on Windows:</strong> Click on <em>Participants</em>,
+    then in the panel that opens click on <em>Raise Hand</em>.</li>
+    <li><strong>iOS and Android:</strong> Tap <em>More</em>, then tap <em>Raise
+    Hand</em>.</li> <li><strong>Telephone:</strong> Dial <span
+    class=phone-keypresses>*9</span>.</li>
+  </ul>
+</details>
 
 ## Sunday School
 
