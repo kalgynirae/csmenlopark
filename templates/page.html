@@ -45,11 +45,18 @@
   </nav>
 
   <div class=content>
-    {% if obj.title != "Online Services" %}
+    {% if obj.title != "Online Services" and obj.title != "Resuming In-Person Services" %}
     <aside class="regular-banner">
       <a href="{{ get_url(path="@/online-services.md") | safe }}">
         <strong>Online Sunday and Wednesday services:</strong>
         <span style="text-decoration: underline">Click for details.</span>
+      </a>
+    </aside>
+    {% endif %}
+    {% if obj.title != "Resuming In-Person Services" %}
+    <aside class="announcement-banner">
+      <a href="{{ get_url(path="@/resuming-in-person-services.md") | safe }}">
+        <strong>In-person services will resume on July 4.</strong>
       </a>
     </aside>
     {% endif %}

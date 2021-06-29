@@ -12,8 +12,10 @@ hidden = true
 
 # Online Services
 
-Until further notice, we are holding our Sunday and Wednesday services online
-via Zoom.
+Beginning July 4, [in-person services are
+resuming](@/resuming-in-person-services.md), but we will continue to broadcast
+the audio via Zoom using the same Zoom meeting information.  Please bear with us
+while we work out the kinks in our setup over the next few weeks.
 
 ## Sunday <time datetime="10:00">10:00 am</time>
 
