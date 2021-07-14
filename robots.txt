@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /online-services/
+Disallow: /online-sunday-school/
+Sitemap: https://www.csmenlopark.org/sitemap.xml
