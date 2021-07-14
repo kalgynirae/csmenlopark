@@ -53,13 +53,6 @@
       </a>
     </aside>
     {% endif %}
-    {% if obj.title != "Resuming In-Person Services" %}
-    <aside class="announcement-banner">
-      <a href="{{ get_url(path="@/resuming-in-person-services.md") | safe }}">
-        <strong>In-person services will resume on July 4.</strong>
-      </a>
-    </aside>
-    {% endif %}
 
 {{ obj.content | safe }}
 

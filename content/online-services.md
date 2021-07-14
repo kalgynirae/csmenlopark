@@ -1,9 +1,9 @@
 +++
 title = "Online Services"
 path = "/online-services/"
-
-[extra]
-hidden = true
+aliases = [
+  "/resuming-in-person-services/",
+]
 +++
 
 <div class="content-and-sidebar">
@@ -12,12 +12,13 @@ hidden = true
 
 # Online Services
 
-Beginning July 4, [in-person services are
-resuming](@/resuming-in-person-services.md), but we will continue to broadcast
-the audio via Zoom using the same Zoom meeting information.  Please bear with us
-while we work out the kinks in our setup over the next few weeks.
+**Our services are [once again being held in-person]**, but we are continuing to
+broadcast the audio via Zoom using the same meeting information.  Please bear
+with us while we work out the kinks in our setup over the next few weeks.
 
-## Sunday <time datetime="10:00">10:00 am</time>
+[once again being held in-person]: @/services.md
+
+## Sunday <time datetime="10:00">10:00 am</time> and Wednesday <time datetime="19:30">7:30 pm</time>
 
 There are two ways to join the Zoom meeting:
 
@@ -37,18 +38,10 @@ There are two ways to join the Zoom meeting:
   3. When prompted, enter this **password**: <span class="meeting-password"><span>075</span>187</span>
   4. If prompted for a participant ID, dial <span class="phone-keypresses">#</span> to skip.
 
-The meeting will open at 9:45am. We will have a prelude from 9:50–10:00, then
-the service will begin.  Participants will be automatically muted during the
-service.
+The meeting will open approximately 10 minutes before the service.  Participants
+will be automatically muted during the service.
 
-
-## Wednesday <time datetime="19:30">7:30 pm</time>
-
-Follow the instructions for Sunday above.
-
-The meeting will open at 7:20pm.  We will have a prelude from 7:25–7:30, then
-the service will begin.  Participants will be automatically muted during the
-service. For testimonies, if you wish to share, please use the *Raise Hand*
+For testimonies on Wednesday, if you wish to share, please use the *Raise Hand*
 feature and wait for the usher to call on you.
 
 <details>
