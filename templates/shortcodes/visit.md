@@ -3,17 +3,17 @@
 <img alt="Church entrance" src="/media/church-entrance.jpg">
 
 ### Sunday
-* <strong class="highlight-box">[Resuming in-person on July 4!](@/resuming-in-person-services.md)</strong>
 * Church Service: <time datetime="10:00">10:00 am</time>
 * Sunday School: <time datetime="10:00">10:00 am</time>
-* <strong>Currently [held online](@/online-services.md)</strong>
+* Held in-person and also [via Zoom](@/online-services.md)
 
 ### Wednesday
-* <strong class="highlight-box">[Resuming in-person on July 7!](@/resuming-in-person-services.md)</strong>
 * Testimony Meeting: <time datetime="19:30">7:30 pm</time>
-* <strong>Currently [held online](@/online-services.md)</strong>
+* Held in-person and also [via Zoom](@/online-services.md)
 
-Each service lasts about 1 hour.
+Each service lasts about 1 hour.  Following state guidelines, masks are required
+for individuals who have not been vaccinated and are optional otherwise. Please
+take into consideration social distancing.
 
 <hr>
 
